@@ -19,8 +19,9 @@ cd kd1s2
 
 unzip kd1s2.zip
 
-cd kd1s2 
+cd kd1s
 
 php login.php
 
 php run.php
+
